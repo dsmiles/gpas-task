@@ -1,6 +1,6 @@
 # GPAS API Sample Tests
 
-This repository contains sample integration tests using REST-assured against the GPAS API.
+This repository contains sample integration tests using REST-assured against the GPAS API (Global Pathogen Analysis Service).
 
 API documentation: [GPAS API Documentation](https://dev.portal.gpas.world/redoc)
 
